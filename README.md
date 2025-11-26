@@ -1,26 +1,7 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-###
+### Olá, meu nome é Glauber!
 
-<p align="left">Sou Glauber Martins, desenvolvedor focado em soluções e aprendizado.</p>
+<img src="https://img.shields.io/static/v1?label=username&message=Glaub3rDev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Desenvolvedor em formação, focado em resolver problemas com código e aprender novas tecnologias. Comprometido com eficiência, inovação e crescimento contínuo.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
+<p>Trabalhando na Agropecária Cananova<br/> Eu sou assistente de TI - Sistemas</p>
