@@ -4,8 +4,6 @@
 
 <p>Trabalhando na Agropecária Cananova<br/> Eu sou assistente de TI - Sistemas</p>
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 **Aplicações e dados**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
